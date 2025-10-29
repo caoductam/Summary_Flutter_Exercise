@@ -1,4 +1,14 @@
 # Summary_Flutter_Exercise
+# Thông tin cá nhân
+## Thông tin
+- Họ tên: Cao Đức Tâm
+- MSSV: 22IT257
+- Lớp: 22GIT
+- Lớp học phần: Phát triển ứng dụng di động đa nền tảng (1)GITTA
+## Social
+- Github: https://github.com/caoductam
+- Email: ductam2024@gmail.com
+- Facebook: https://www.facebook.com/tam.cd.2004
 # Mục lục
 - [Bài 1](Bài-1)
 - [Bài 2](Bài-2)
